@@ -12,6 +12,8 @@ Installation: `pkg add https://github.com/jbrightuniverse/hungarianalg-julia/`
 
 Import: `using Hungarian: hungarian, display`
 
+In Jupyter or within a Julia script, do `using Pkg` and `Pkg.add(PackageSpec(url="https://github.com/jbrightuniverse/hungarianalg-julia"))`
+
 Function call: `result = hungarian(matrix)`
 
 Pretty print: `println(display(result))`
