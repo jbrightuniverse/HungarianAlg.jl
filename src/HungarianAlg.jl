@@ -9,8 +9,6 @@ module HungarianAlg
         revenue_sum
     end
 
-    Node() = Node(false, nothing)
-
     function hungarian(matrx)
         #= Runs the Hungarian Algorithm on a given matrix and returns the optimal matching with potentials. =#
         
