@@ -10,7 +10,7 @@ For a detailed overview, see [this Jupyter notebook](https://github.com/jbrightu
 
 Installation: `pkg add https://github.com/jbrightuniverse/hungarianalg-julia/`
 
-Import: `using Hungarian: hungarian, display`
+Import: `using HungarianAlg: hungarian, display`
 
 In Jupyter or within a Julia script, do `using Pkg` and `Pkg.add(PackageSpec(url="https://github.com/jbrightuniverse/hungarianalg-julia"))`
 
