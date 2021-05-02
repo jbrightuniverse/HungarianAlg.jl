@@ -14,7 +14,7 @@ Import: `using Hungarian: hungarian, display`
 
 Function call: `result = hungarian(matrix)`
 
-Pretty print: `display(result)`
+Pretty print: `println(display(result))`
 
 Properties:
 - Optimal Matching: `result.match`
@@ -23,4 +23,4 @@ Properties:
 - Col Weights: `result.col_weights`
 - Total Revenue: `result.revenue_sum`
 
-See `example.jl` for a comprehensive example.
+See `docs/example.jl` for a comprehensive example.
