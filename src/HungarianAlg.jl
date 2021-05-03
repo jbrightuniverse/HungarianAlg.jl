@@ -72,8 +72,11 @@ module HungarianAlg
                 # Step E: Swap the alternating path in our alternating tree attached to the worker we matched
                 source = pair[1]
                 matched = 1
-                while x_parents[source] != -1
+                while true
                     if matched == 1
+                        if x_parents[source] == -1
+                            break
+                        end
                         above = x_parents[source]
                     else
                         above = y_parents[source]
