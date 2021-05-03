@@ -8,11 +8,11 @@ For a detailed overview, see [this Jupyter notebook](https://github.com/jbrightu
 
 # Usage
 
-Installation: `pkg add https://github.com/jbrightuniverse/hungarianalg-julia/`
+Installation: `pkg add https://github.com/jbrightuniverse/HungarianAlg.jl/`
 
 Import: `using HungarianAlg: hungarian, display`
 
-In Jupyter or within a Julia script, do `using Pkg` and `Pkg.add(PackageSpec(url="https://github.com/jbrightuniverse/hungarianalg-julia"))`
+In Jupyter or within a Julia script, do `using Pkg` and `Pkg.add(PackageSpec(url="https://github.com/jbrightuniverse/HungarianAlg.jl"))`
 
 Function call: `result = hungarian(matrix)`
 
