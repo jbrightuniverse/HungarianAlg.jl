@@ -1,6 +1,6 @@
 A Julia implementation of the Hungarian Algorithm for optimal matching in bipartite weighted graphs.
 
-Based on the graph theory implementation in [these notes](http://www.cse.ust.hk/~golin/COMP572/Notes/Matching.pdf) combined with the matrix interpretation in [these notes](https://montoya.econ.ubc.ca/Econ514/hungarian.pdf). 
+Based on the graph theory implementation at [http://www.cse.ust.hk/~golin/COMP572/Notes/Matching.pdf](http://www.cse.ust.hk/~golin/COMP572/Notes/Matching.pdf) combined with the matrix interpretation at [https://montoya.econ.ubc.ca/Econ514/hungarian.pdf](https://montoya.econ.ubc.ca/Econ514/hungarian.pdf). 
 
 Also derives from [these](https://github.com/jbrightuniverse/FastHungarianAlgorithm) [prior](https://github.com/jbrightuniverse/hungarianalg) [repos](https://github.com/jbrightuniverse/hungarianalg2) implemented in C and Python.
 
