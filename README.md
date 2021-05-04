@@ -4,7 +4,7 @@ Based on the graph theory implementation at [http://www.cse.ust.hk/~golin/COMP57
 
 Also derives from [these](https://github.com/jbrightuniverse/FastHungarianAlgorithm) [prior](https://github.com/jbrightuniverse/hungarianalg) [repos](https://github.com/jbrightuniverse/hungarianalg2) implemented in C and Python.
 
-For a detailed overview, see [this Jupyter notebook](https://github.com/jbrightuniverse/hungarianalg-julia/blob/main/docs/hungarian_algorithm_julia.ipynb).
+For a detailed overview, see [this Jupyter notebook](https://github.com/jbrightuniverse/HungarianAlg.jl/blob/master/docs/hungarian_algorithm_julia.ipynb).
 
 # Usage
 
